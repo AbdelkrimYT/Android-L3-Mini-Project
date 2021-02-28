@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Chatting App</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="collage">Collage</string>
+    <string name="business">Business</string>
+    <string name="family">Family</string>
+    <string name="friends">Friends</string>
+    <string name="_2_members">2 members</string>
+    <string name="_2_days_ago">2 Days ago</string>
+    <string name="_7_members">7 members</string>
+    <string name="_10_days_ago">10 Days ago</string>
+    <string name="_6_members">6 members</string>
+    <string name="_13_hour_ago">13 Hour ago</string>
+    <string name="exit">Exit</string>
+    <string name="notifications">notifications</string>
+    <string name="pofile">Pofile</string>
+    <string name="call">Call</string>
+    <string name="send_messsag">Send Messsag</string>
+    <string name="about">About</string>
+    <string name="select_text_to_open_custom_menu">Select text to open custom menu.</string>
+    <string name="select_text_to_open_menu">Select text to open menu.</string>
+    <string name="enter_yout_message">Enter yout message</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="floating_option_1">Floating Option 1</string>
+    <string name="floating_option_2">Floating Option 2</string>
+    <string name="floating_option_3">Floating Option 3</string>
+    <string name="click_to_open_floating_context_menu">Click to open floating context menu</string>
+    <string name="todo">TODO</string>
+</resources>
